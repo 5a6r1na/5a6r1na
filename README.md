@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Sabrina
 
-🌱 I’m currently learning JavaScript and Python.
+🌱 I’m currently learning Java and Python.
 
 ### Languages & Tools
 
